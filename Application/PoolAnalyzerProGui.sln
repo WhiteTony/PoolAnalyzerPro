@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoolAnalyserProGui", "PoolAnalyserProGui\PoolAnalyserProGui.csproj", "{607FAB47-2D06-430B-9537-9F5CDC7F868D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{607FAB47-2D06-430B-9537-9F5CDC7F868D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607FAB47-2D06-430B-9537-9F5CDC7F868D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607FAB47-2D06-430B-9537-9F5CDC7F868D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607FAB47-2D06-430B-9537-9F5CDC7F868D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B9D189E-B8EF-42E0-95D8-D09962A2D31E}
+	EndGlobalSection
+EndGlobal

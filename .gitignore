@@ -1,0 +1,8 @@
+sh.exe.stackdump
+*.cache
+*.exe
+*.resources
+*pdb
+*.suo
+*txt
+*.vs
